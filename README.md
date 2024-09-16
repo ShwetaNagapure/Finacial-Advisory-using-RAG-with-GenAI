@@ -106,6 +106,30 @@ To access the codebase:
 ## Getting Started
 1. Explore the `source/` folder to understand the codebase structure.
 ---
+### Technology & Languages
+
+- [ ] JavaScript
+- [ ] Java
+- [ ] .NET
+- [X] Python
+- [X] AI Studio
+- [X] AI Search
+- [] PostgreSQL
+- [X] Cosmos DB
+- [X] Azure SQL
+---
+### Project Repository URL
+
+https://github.com/ShwetaNagapure/Finacial-Advisory-using-RAG-with-GenAI
+---
+### Deployed Endpoint URL
+
+N/A
+---
+### Project Video
+
+Web-App Video Link: <a href="https://drive.google.com/file/d/1W-Naj5z4EGK2QzWuOwBjRH879T2go4L8/view?usp=sharing">Click Here</a>
+---
 <div>
     Team Members: <i> <a href="https://www.linkedin.com/in/shweta-nagapure-4612a2269/">Shweta Nagapure</a>, <a href="mailto:atharvamundke22@gmail.com">Atharva Mundke</a>, <a href="https://www.linkedin.com/in/prasad-kumbhar-/">Prasad Kumbhar</a> and <a href="https://www.linkedin.com/in/virendra-bagul-141786250/">Virendra Bagul</a></i>
 </div>
