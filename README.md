@@ -22,7 +22,6 @@ Transform financial advisory services through generative AI, delivering customiz
 1. Analyze customer financial data and market trends to generate tailored investment strategies.
 2. Offer real-time advisory services that adapt to changing financial conditions and customer goals.
 3. Ensure transparency and explainability in the AI-driven advisory process to build customer trust and confidence.
-## Repository Structure
 ---
 
 ### 3. Problem Statement
