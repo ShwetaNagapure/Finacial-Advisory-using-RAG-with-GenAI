@@ -114,7 +114,7 @@ To access the codebase:
 - [X] Python
 - [X] AI Studio
 - [X] AI Search
-- [] PostgreSQL
+- [ ] PostgreSQL
 - [X] Cosmos DB
 - [X] Azure SQL
 ---
