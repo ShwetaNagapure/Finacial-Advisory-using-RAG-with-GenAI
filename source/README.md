@@ -2,7 +2,6 @@
 
 This project aims to revolutionize financial advisory services by leveraging generative AI to provide personalized, data-driven financial advice. The application collects and processes financial data, performs hybrid searches using Azure Cognitive Services, and delivers responses through a user-friendly Flask application.
 
-Web-App Hosted Link: <a href="https://atharvam-1732.github.io/TechX_BOB_Hackathon_20241/">Click here</a><br><br>
 Web-App Video Link: <a href="https://drive.google.com/file/d/1W-Naj5z4EGK2QzWuOwBjRH879T2go4L8/view?usp=sharing">Click Here</a>
 
 ## Table of Contents
