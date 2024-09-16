@@ -108,5 +108,5 @@ To access the codebase:
 1. Explore the `source/` folder to understand the codebase structure.
 ---
 <div>
-    Team Members: <i> <a href="https://www.linkedin.com/in/shweta-nagapure-4612a2269/">Shweta Nagapurer</a>, <a href="mailto:atharvamundke22@gmail.com">Atharva Mundke</a>, <a href="https://www.linkedin.com/in/prasad-kumbhar-/">Prasad Kumbhar</a> and <a href="https://www.linkedin.com/in/virendra-bagul-141786250/">Virendra Bagul</a></i>
+    Team Members: <i> <a href="https://www.linkedin.com/in/shweta-nagapure-4612a2269/">Shweta Nagapure</a>, <a href="mailto:atharvamundke22@gmail.com">Atharva Mundke</a>, <a href="https://www.linkedin.com/in/prasad-kumbhar-/">Prasad Kumbhar</a> and <a href="https://www.linkedin.com/in/virendra-bagul-141786250/">Virendra Bagul</a></i>
 </div>
