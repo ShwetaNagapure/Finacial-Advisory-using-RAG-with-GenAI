@@ -1,11 +1,10 @@
 <div align="center">
-    <h2>RagHack</h2>
     <h1>Financial Advisory Bot using RAG with GenAI</h1>
 
 </div>
 
 ---
-### Team Name: TechX
+### Team Name: TechX Solution's 
 
 ---
 
@@ -141,5 +140,5 @@ To access the codebase:
 ---
 
 <div>
-    Team Members: <i> <a href="https://www.linkedin.com/in/shweta-nagapure-4612a2269/">Shweta Nagapure</a>, <a href="mailto:atharvamundke22@gmail.com">Atharva Mundke</a>, <a href="https://www.linkedin.com/in/prasad-kumbhar-/">Prasad Kumbhar</a> and <a href="https://www.linkedin.com/in/virendra-bagul-141786250/">Virendra Bagul</a></i>
+    Team Members: <i> <a href="https://www.linkedin.com/in/shweta-nagapure-4612a2269/">Shweta Nagapure</a></i>
 </div>
